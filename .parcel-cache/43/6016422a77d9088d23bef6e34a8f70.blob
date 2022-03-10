@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="132c26930cbc47d8a8a9016f5d931651">
+  <link rel="preconnect" href="0aca0d6babe0a53839bd0fb91509cf27" crossorigin="">
+  <link rel="stylesheet" href="824291d949de9787cbbef54239d38571" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link href="2a8350a43eb1a18dfec9f8fb28059849" rel="stylesheet">
+  <link rel="stylesheet" href="b739cc41a52dc6f0e7d0d172341007d0">
+  <script defer="" src="645162708fa1cea7076acb7a3e14877e"></script>
+  <title>Github Finder App</title>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="container">
+        <div class="header">
+          <div class="logo-and-title">
+            <div class="logo">
+              <i class="fa-brands fa-github"></i>
+            </div>
+            <h1>Get Github Users</h1>
+          </div>
+          <form class="search-form">
+            <input type="text" placeholder="Type something...">
+            <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+          </form>
+        </div>
+        <div class="main">
+          <div class="main-left">
+            <ul class="users-preview">
+            </ul>
+            <div class="pagination-buttons">
+            </div>
+          </div>
+          <div class="main-right">
+            <div class="main-top">
+              
+            </div>
+            <div class="main-bottom">
+              <div class="repos">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</body>
+</html>

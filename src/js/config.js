@@ -1,0 +1,2 @@
+export const GITHUB_CLIENT_ID = '46a66a5f31bc0d7f029d';
+export const GITHUB_CLIENT_SECRET = 'b037f8059ed1cd010f7d971edc4380ce58c2d273';
